@@ -4,6 +4,8 @@
 
 **Live Demo:** [moveit-website.onrender.com](https://moveit-website.onrender.com)
 
+**NOTICE** that this website is live on free tier render it may takes 50 sec to load it. **Be Patient** 
+
 ---
 
 ## About
